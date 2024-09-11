@@ -1,1 +1,1 @@
-<img src="https://capsule-render.vercel.app/api?type=egg&color=BDBDC8&height=150&section=header" />
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
