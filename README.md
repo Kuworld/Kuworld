@@ -4,15 +4,15 @@
 
 
 
-Hello👋  I am Junior Java back-end developer. 
-=============================================================
+<h2 align="center">Hello👋  I am Junior Java back-end developer. </h2>
+
 
 
 
 
 * * *
-✨ Tech Stack
---------------
+<h3 align="center">✨ Tech Stack</h3>
+
 
 <div align="center">  
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">  <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <br>
