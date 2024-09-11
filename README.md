@@ -4,7 +4,7 @@
 
 
 
-Hello👋 My name is Inmo, I am Junior Java back-end developer. 
+Hello👋  I am Junior Java back-end developer. 
 =============================================================
 
 
