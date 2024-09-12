@@ -6,7 +6,8 @@
 
 <h2 align="center">Hello👋  I am Junior Java back-end developer. </h2>
 
-
+<h3 align="center"> 하루에 하나씩 꾸준히!! </h3>
+<h3 align="center"> 노력은 배신 하지 않는다.👍</h3>
 
 
 
