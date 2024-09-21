@@ -11,18 +11,7 @@
 <h3 align="center">노력은 배신 하지 않는다.👍</h3>
 
 -----------------------------------------------------------------------
-# 📓 Projects
-
-## 1. 🎥: MovieWebSite
-> 영화 정보 제공 사이트
->  * 개발기간 : 2024. 03
->  * 핵심기능 : 오픈 API를 활용한 영화 정보 제공
->
-> 프론트엔드 : HTML, CSS, JavaScript
->
-> [프로젝트 설명](https://github.com/Kuworld/Green_MoviesProject)
-
-## 2. 🛒 ShoppingWebSite
+## 1. 🛒 ShoppingWebSite
 > WarterBalloon 쇼핑 사이트
 > * 개발기간 : 2024. 06 ~ 2024. 07
 > * 핵심기능 : DB 생성 및 연동, Daum 우편번호 서비스 API연동, 장바구니 기능, Q&A기능
@@ -32,6 +21,19 @@
 >  백엔드 : Java, Thymeleaf, Spring Boot, Spring Security, JPA
 >
 > [프로젝트 설명](https://github.com/Kuworld/waterBalloon_Spring_Project)
+
+# 📓 Projects
+
+## 2. 🎥: MovieWebSite
+> 영화 정보 제공 사이트
+>  * 개발기간 : 2024. 03
+>  * 핵심기능 : 오픈 API를 활용한 영화 정보 제공
+>
+> 프론트엔드 : HTML, CSS, JavaScript
+>
+> [프로젝트 설명](https://github.com/Kuworld/Green_MoviesProject)
+
+
 
 
 
