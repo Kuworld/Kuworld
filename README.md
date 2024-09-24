@@ -2,10 +2,6 @@
 
 
 
-
-
-<h2 align="center">Hello👋  I am Junior Java back-end developer. </h2>
-
 <h3 align="center">하루에 하나씩 꾸준히!! </h3>
 <h3 align="center">Just Do It!!🏃‍♂️</h3> 
 
