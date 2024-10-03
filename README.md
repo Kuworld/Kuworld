@@ -5,6 +5,8 @@
 <h3 align="center">하루에 하나씩 꾸준히!! </h3>
 <h3 align="center">Just Do It!!🏃‍♂️</h3> 
 
+
+# 📓 Projects
 -----------------------------------------------------------------------
 ## 1. 🛒 ShoppingWebSite
 > WarterBalloon 쇼핑 사이트
@@ -17,7 +19,7 @@
 >
 > [프로젝트 설명](https://github.com/Kuworld/waterBalloon_Spring_Project)
 
-# 📓 Projects
+
 
 ## 2. 🎥: MovieWebSite
 > 영화 정보 제공 사이트
