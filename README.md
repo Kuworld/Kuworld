@@ -5,9 +5,8 @@
 <h3 align="center">하루에 하나씩 꾸준히!! </h3>
 <h3 align="center">Just Do It!!🏃‍♂️</h3> 
 
-
-# 📓 Projects
 -----------------------------------------------------------------------
+# 📓 Projects
 ## 1. 🛒 ShoppingWebSite
 > WarterBalloon 쇼핑 사이트
 > * 개발기간 : 2024. 06 ~ 2024. 07
